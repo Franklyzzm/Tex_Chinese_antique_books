@@ -17,13 +17,13 @@
 
 singal page
 
-單頁模板示意圖：[singal_page.png](https://)
+單頁模板示意圖：[singal_page.png](https://github.com/Franklyzzm/Tex_Chinese_antique_books/blob/master/singal_page.png)
 
 ##<a name="double-page-c"></a>2 雙頁中心## 
 
 double page central
 
-雙頁中心模板示意圖：[double\_page_c.png](https://)
+雙頁中心模板示意圖：[double\_page_c.png](https://github.com/Franklyzzm/Tex_Chinese_antique_books/blob/master/double_page_c.png)
 
 
 ##<a name="double-page-s"></a>3 雙頁邊緣## 
