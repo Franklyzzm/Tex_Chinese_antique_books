@@ -9,9 +9,23 @@
 [English] Chinese antique books (canb) 
 
 
-計劃創建一個類似**中文古籍**的排版樣式的Tex的模板。
+計劃創建一個用于创建類似**中文古籍**的排版樣式文档、书籍的Tex的宏包(macro/package)。
 
-初步計畫有三種樣式：[單頁](#singal-page)，[雙頁中心](#double-page-c)，[雙頁邊緣](#double-page-s)。
+标题(Title)页两种样式：[标题有框](#title-frame)，[标题无框](#title)。
+
+正文页有三種樣式：[單頁](#singal-page)，[雙頁中心](#double-page-c)，[雙頁邊緣](#double-page-s)。
+
+##<a name="title-frame"></a>1 标题有框##
+
+title-frame
+
+标题有框模板示意圖：[title-frame.png](https://github.com/Franklyzzm/Tex_Chinese_antique_books/blob/master/title_frame.png)
+
+##<a name="title"></a>2 标题无框##
+
+title
+
+标题无框模板示意圖：[title.png](https://github.com/Franklyzzm/Tex_Chinese_antique_books/blob/master/)
 
 ##<a name="singal-page"></a>1 單頁## 
 
