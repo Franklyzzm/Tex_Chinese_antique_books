@@ -19,7 +19,7 @@
 
 title-frame
 
-标题有框模板示意圖：[title-frame.png](https://github.com/Franklyzzm/Tex_Chinese_antique_books/blob/master/title_frame.png)
+标题有框模板示意圖：[title_frame.png](https://github.com/Franklyzzm/Tex_Chinese_antique_books/blob/master/title_frame.png)
 
 ##<a name="title"></a>2 标题无框##
 
